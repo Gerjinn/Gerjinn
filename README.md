@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Gerjinn C. Yallung! 
 
-<!--
-**Gerjinn/Gerjinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I’m a BS Information Technology student fueled by curiosity and a love for solving tech puzzles. I thrive on exploring programming, databases, and innovative tools that turn ideas into efficient, real-world solutions. Constant learning and creating meaningful projects are what keep me motivated in the ever-evolving world of technology.
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **BS Information Technology**  
+  New Era University  
+  2017–Present
+
+---
+
+## 📜 Certification
+- https://courses.cognitiveclass.ai/certificates/020982e7ab3d411fb1c71d17ea3f7d50
+
+
+
+---
+
+## 🛠️ Skill Sets
+- **Programming:** Java
+- **Databases:** SQL  
+- **Tools:** VSCode, Intellij, HTML
+
+---
+
+## 🤝 Let's Connect!
+- **Email:** Gyallung@gmail.com
