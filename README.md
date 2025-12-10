@@ -14,6 +14,7 @@ Hi there! I’m a BS Information Technology student fueled by curiosity and a lo
 ## 📜 Certification
 - [SQL and Relational Databases 101 – Certificate](https://courses.cognitiveclass.ai/certificates/020982e7ab3d411fb1c71d17ea3f7d50)
 
+- [Oracle Cloud Infrastructure – Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E714AF84F33A0A819367C6AE8449C8C0816BB95A58E66EAF01E457B8842133B)
 
 
 ---
