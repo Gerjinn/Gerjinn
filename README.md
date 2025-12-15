@@ -16,6 +16,7 @@ Hi there! I’m a BS Information Technology student fueled by curiosity and a lo
 
 - [Oracle Cloud Infrastructure – Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E714AF84F33A0A819367C6AE8449C8C0816BB95A58E66EAF01E457B8842133B)
 
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F45E053190514BF8B84C0AAEA3F0F634284596C295D271227B1EDD4EA3B4D213)
 
 ---
 
