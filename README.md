@@ -24,11 +24,12 @@ Hi there! I’m a BS Information Technology student fueled by curiosity and a lo
 ---
 
 ## 🛠️ Skill Sets
-- **Programming:** Java
-- **Databases:** SQL  
-- **Tools:** VSCode, Intellij, HTML
+- **Programming:** Java, JavaScript  
+- **Databases:** IBM DB2 Cloud  
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VsCode, IntelliJ
 
 ---
 
 ## 🤝 Let's Connect!
+- LinkedIn: [LinkedIn profile link](www.linkedin.com/in/gerjinn-yallung-464791409)
 - **Email:** Gyallung@gmail.com
