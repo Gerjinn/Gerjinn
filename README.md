@@ -31,5 +31,5 @@ Hi there! I’m a BS Information Technology student fueled by curiosity and a lo
 ---
 
 ## 🤝 Let's Connect!
-- LinkedIn: [LinkedIn profile link](www.linkedin.com/in/gerjinn-yallung-464791409)
+- LinkedIn: [LinkedIn profile link](www.linkedin.com/in/gerjinn-yallung)
 - **Email:** Gyallung@gmail.com
